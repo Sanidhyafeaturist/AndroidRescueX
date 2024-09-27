@@ -32,8 +32,9 @@ To flash this custom ROM on your device, follow these steps:
      ```bat
      flash_all.bat
      ```
+5. **For Linux and MacOS**: Support for these 2 platforms are coming soon. :)
 
-5. **Reboot**:
+6. **Reboot**:
    - After flashing, your device should reboot automatically. If not, use the command:
      ```sh
      fastboot reboot
