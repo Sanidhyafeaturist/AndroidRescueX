@@ -12,7 +12,7 @@ This project is a custom ROM. It provides a unique user interface and features, 
 - Backup and restore functionality.
 - Support for various file systems.
 
-- ##Note
+- ## Note
 - This project is currently in testing so, pls check the source code before use, also it currently supports xioami devices (Redmi Note 13R)
 
 ## Installation Instructions
