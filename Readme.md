@@ -49,6 +49,12 @@ To flash this custom ROM on your device, follow these steps:
 - Back up your data before flashing to avoid data loss.
 - This ROM is intended for advanced users familiar with flashing custom ROMs and recovery environments.
 
+
+## Updates done
+we fixed some voids in our project, like incorrect file paths and other fixes, and now I think that it should be working fine
+
+
+
 ## License
 
 This project is open-source. You can use, modify, and distribute it as long as proper credit is given to the original authors.
