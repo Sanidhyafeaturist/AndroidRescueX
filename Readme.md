@@ -51,7 +51,7 @@ To flash this custom ROM on your device, follow these steps:
 
 
 ## Updates done
-we fixed some voids in our project, like incorrect file paths and other fixes, and now I think that it should be working fine
+We fixed some voids in our project, like incorrect file paths and other fixes, and now I think that it should be working fine
 
 
 
